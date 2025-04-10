@@ -20,13 +20,13 @@ Los datos que se van a sacar de la FEI Database se indican a continuación, en f
     - Web Doma: https://inside.fei.org/fei/disc/dressage
     - reglamento: https://inside.fei.org/node/3821/
 
-## Jinetes/Veterinarios/Jefes de pista/Organizadores/Owners
+## Personas: Jinetes/Judges/Course Designer/Steward/Veterinay/Owners
 
 Se indica a continuación el detalle/columnas que se obtiene sobre cada jinete:
 
 - FEI ID: id de la fei
 - Gender: genero
-- Civility
+- Civility: Monsieur/Madame
 - Family Name: nombre de familia (apellido?)
 - First Name: nombre	
 - Nationality: nacionalidad
@@ -45,7 +45,7 @@ Se indica a continuación el detalle/columnas que se obtiene sobre cada jinete:
 
 Se indica a continuación el detalle/columnas que se obtiene sobre cada caballo:
 
-- Sex
+- Sex: mare, gelding, stallion
 - Birth Name: fecha de nacimiento del caballo.
 - Current Name: nombre actual del caballo (no coger?).
 - Commercial prefix or suffix: nombre comercial del caballo (no coger?).	
@@ -58,7 +58,7 @@ Se indica a continuación el detalle/columnas que se obtiene sobre cada caballo:
 - Country of Birth: 	
 - Color Code: capa del caballo.	
 - Color Complement: complemento del color. 	
-- Gender: género del animal.
+- Gender: género del animal (male/female).
 - Castrated/Sterilized: información sobre si está castrado o no el caballo/yegua.
 - Pony: indicación de si es poni o no el animal.
 - Studbook (WBFSH members): libro genealógico del caballo. A continuación se indica el enlace al Studbooks List de la FEI -> https://inside.fei.org/fei/your-role/veterinarians/passports/wbfsh. 
@@ -96,6 +96,8 @@ Otros enlaces interesantes:
 ## Competiciones
 
 Según la disciplina y la competición el reglamento, el funcionamiento de las pruebas y la puntuación van a variar. Vamos a deiferenciar, desde la FEI Database lo siguiente:
+
+https://inside.fei.org/system/files/Jumping%20requirements_v2b.pdf
 
 ### Show
 
